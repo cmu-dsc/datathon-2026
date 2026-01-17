@@ -1,6 +1,5 @@
 # DSC Datathon 2026
 
-## The Mission
 We are partnering with Databricks and the United Nations to tackle two critical issues in humanitarian aid. Your work here could directly influence how resources are allocated to millions of people in crisis.
 
 ### Challenge 1: The "Geo-Insight" Map
