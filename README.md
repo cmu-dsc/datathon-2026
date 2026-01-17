@@ -14,6 +14,16 @@ Build a tool to flag project proposals with unusually high or low **Cost-Per-Ben
 
 ---
 
+## Getting Started
+
+1. From the instructions packet, access the Databricks Signup Link to sign up for a Databricks account.
+
+2. Once you are in the Databricks dashboard, on the left sidebar, select New -> More -> Git Folder.
+
+3. Paste the URL of this repository (https://github.com/cmu-dsc/datathon-2026.git) into the Git repository URL field and select Create Git Folder.
+
+---
+
 ## Data Schemas
 
 ### 1. CERF Climate Related Allocations
