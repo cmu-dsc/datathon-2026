@@ -108,7 +108,7 @@ Build a tool to flag project proposals with unusually high or low **Cost-Per-Ben
 | `AllocationType` | The funding modality. |
 | `OrganizationName` / `Type` | The implementing partner. |
 | `ProjectTitle` | The official title. |
-| `ProjectDuration` | The length of the intervention in months. |
+| `ProjectDuration` | The length of the intervention. |
 | `Budget` | The total approved budget in USD. |
 | `TotalDirectCost` / `SupportCost` | Breakdown of the budget into program delivery vs. administrative overhead. |
 | `Men` / `Women` / `Boys` / `Girls` | The target number of direct beneficiaries broken down by demographics. |
