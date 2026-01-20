@@ -2,16 +2,6 @@
 
 We are partnering with Databricks and the United Nations to tackle two critical issues in humanitarian aid. Your work here could directly influence how resources are allocated to millions of people in crisis.
 
-### Challenge 1: The "Geo-Insight" Map
-**Question:** *Which Crises Are Most Overlooked?*
-Using public funding and severity data, investigate the mismatch between **Humanitarian Needs** (Severity) and **Pooled Fund Coverage** (Funding).
-* **Goal:** Identify "Orphan Crises"—regions with high severity but low funding.
-
-### Challenge 2: Smart Beneficiary Targeting
-**Question:** *Are these budget ratios realistic?*
-Build a tool to flag project proposals with unusually high or low **Cost-Per-Beneficiary** ratios.
-* **Goal:** Create a benchmarking tool that clusters similar projects and detects outliers to help vetting teams.
-
 ---
 
 ## Getting Started
