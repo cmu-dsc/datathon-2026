@@ -1,0 +1,148 @@
+ISO3,Country_Name,Region,CERF_Country_Name,Continent,CERF_Region
+AFG,Afghanistan,Asia,Afghanistan,Asia,Southern Asia
+AGO,Angola,Africa,Angola,Africa,Middle Africa
+ARM,Armenia,Middle east,Armenia,Asia,Western Asia
+ARM,Armenia,Asia,Armenia,Asia,Western Asia
+ATG,,,Antigua and Barbuda,Americas,Latin America and the Caribbean
+AZE,Azerbaijan,Middle east,Azerbaijan,Asia,Western Asia
+AZE,Azerbaijan,Asia,Azerbaijan,Asia,Western Asia
+BDI,Burundi,Africa,Burundi,Africa,Eastern Africa
+BEN,Benin,Africa,Benin,Africa,Western Africa
+BFA,Burkina Faso,Africa,Burkina Faso,Africa,Western Africa
+BGD,Bangladesh,Asia,Bangladesh,Asia,Southern Asia
+BGR,Bulgaria,Europe,,,
+BHS,,,Bahamas,Americas,Latin America and the Caribbean
+BIH,,,Bosnia and Herzegovina,Europe,Southern Europe
+BLR,Belarus,Europe,,,
+BOL,Bolivia,Americas,Bolivia,Americas,Latin America and the Caribbean
+BRA,Brazil,Americas,Brazil,Americas,Latin America and the Caribbean
+BTN,,,Bhutan,Asia,Southern Asia
+CAF,CAR,Africa,Central African Republic,Africa,Middle Africa
+CHL,Chile,Americas,Chile,Americas,Latin America and the Caribbean
+CHN,China,Asia,China,Asia,Eastern Asia
+CIV,Côte d'Ivoire,Africa,Cote d'Ivoire,Africa,Western Africa
+CMR,Cameroon,Africa,Cameroon,Africa,Middle Africa
+COD,DRC,Africa,Democratic Republic of the Congo,Africa,Middle Africa
+COG,Congo,Africa,Republic of Congo,Africa,Middle Africa
+COL,Colombia,Americas,Colombia,Americas,Latin America and the Caribbean
+COM,,,Comoros,Africa,Eastern Africa
+CPV,,,Cape Verde,Africa,Western Africa
+CRI,Costa Rica,Americas,,,
+CUB,Cuba,Americas,Cuba,Americas,Latin America and the Caribbean
+CZE,Czech Republic,Europe,,,
+DJI,Djibouti,Africa,Djibouti,Africa,Eastern Africa
+DMA,,,Dominica,Americas,Latin America and the Caribbean
+DOM,Dominican Republic,Americas,Dominican Republic,Americas,Latin America and the Caribbean
+DZA,Algeria,Africa,Algeria,Africa,Northern Africa
+EAF,,,Eastern Africa,Africa,Eastern Africa
+ECU,Ecuador,Americas,Ecuador,Americas,Latin America and the Caribbean
+EGY,Egypt,Africa,Egypt,Africa,Northern Africa
+ERI,Eritrea,Africa,Eritrea,Africa,Eastern Africa
+ESP,Spain,Europe,,,
+EST,Estonia,Europe,,,
+ETH,Ethiopia,Africa,Ethiopia,Africa,Eastern Africa
+FJI,Fiji,Pacific,Fiji,Oceania,Melanesia
+GEO,,,Georgia,Asia,Western Asia
+GHA,Ghana,Africa,Ghana,Africa,Western Africa
+GIN,,,Guinea,Africa,Western Africa
+GLB,,,Global,Global,Global
+GMB,Gambia,Africa,Gambia,Africa,Western Africa
+GNB,,,Guinea-Bissau,Africa,Western Africa
+GNQ,,,Equatorial Guinea,Africa,Middle Africa
+GRC,Greece,Europe,,,
+GRD,,,Grenada,Americas,Latin America and the Caribbean
+GTM,Guatemala,Americas,Guatemala,Americas,Latin America and the Caribbean
+HND,Honduras,Americas,Honduras,Americas,Latin America and the Caribbean
+HTI,Haiti,Americas,Haiti,Americas,Latin America and the Caribbean
+HUN,Hungary,Europe,,,
+IDN,Indonesia,Asia,Indonesia,Asia,South-Eastern Asia
+IND,India,Asia,India,Asia,Southern Asia
+IRN,Iran,Middle east,Islamic Republic of Iran,Asia,Southern Asia
+IRQ,Iraq,Middle east,Iraq,Asia,Western Asia
+ITA,Italy,Europe,,,
+JAM,Jamaica,Americas,Jamaica,Americas,Latin America and the Caribbean
+JOR,Jordan,Middle east,Jordan,Asia,Western Asia
+KEN,Kenya,Africa,Kenya,Africa,Eastern Africa
+KGZ,,,Kyrgyzstan,Asia,Central Asia
+KHM,,,Cambodia,Asia,South-Eastern Asia
+LAO,Laos,Asia,Lao People's Democratic Republic,Asia,South-Eastern Asia
+LBN,Lebanon,Middle east,Lebanon,Asia,Western Asia
+LBR,,,Liberia,Africa,Western Africa
+LBY,Libya,Africa,Libya,Africa,Northern Africa
+LKA,Sri Lanka,Asia,Sri Lanka,Asia,Southern Asia
+LSO,Lesotho,Africa,Lesotho,Africa,Southern Africa
+LTU,Lithuania,Europe,,,
+LVA,Latvia,Europe,,,
+MAR,Morocco,Africa,,,
+MDA,Moldova,Europe,,,
+MDG,Madagascar,Africa,Madagascar,Africa,Eastern Africa
+MEX,Mexico,Americas,Mexico,Americas,Latin America and the Caribbean
+MHL,,,Marshall Islands,Oceania,Micronesia
+MLI,Mali,Africa,Mali,Africa,Western Africa
+MMR,Myanmar,Asia,Myanmar,Asia,South-Eastern Asia
+MNG,Mongolia,Asia,Mongolia,Asia,Eastern Asia
+MOZ,Mozambique,Africa,Mozambique,Africa,Eastern Africa
+MRT,Mauritania,Africa,Mauritania,Africa,Western Africa
+MWI,Malawi,Africa,Malawi,Africa,Eastern Africa
+MYS,Malaysia,Asia,,,
+NAM,Namibia,Africa,Namibia,Africa,Southern Africa
+NER,Niger,Africa,Niger,Africa,Western Africa
+NGA,Nigeria,Africa,Nigeria,Africa,Western Africa
+NIC,Nicaragua,Americas,Nicaragua,Americas,Latin America and the Caribbean
+NPL,Nepal,Asia,Nepal,Asia,Southern Asia
+PAK,Pakistan,Asia,Pakistan,Asia,Southern Asia
+PAN,Panama,Americas,Panama,Americas,Latin America and the Caribbean
+PER,Peru,Americas,Peru,Americas,Latin America and the Caribbean
+PHL,Philippines,Asia,Philippines,Asia,South-Eastern Asia
+PNG,Papua New Guinea,Pacific,Papua New Guinea,Oceania,Melanesia
+POL,Poland,Europe,,,
+PRK,DPRK,Asia,Democratic People's Republic of Korea,Asia,Eastern Asia
+PRY,,,Paraguay,Americas,Latin America and the Caribbean
+PSE,Palestine,Middle east,occupied Palestinian territory,Asia,Western Asia
+ROU,Romania,Europe,,,
+RUS,Russia,Europe,,,
+RWA,Rwanda,Africa,Rwanda,Africa,Eastern Africa
+SDN,Sudan,Africa,Republic of the Sudan,Africa,Northern Africa
+SEN,Senegal,Africa,Senegal,Africa,Western Africa
+SLB,,,Solomon Islands,Oceania,Melanesia
+SLE,,,Sierra Leone,Africa,Western Africa
+SLV,El Salvador,Americas,El Salvador,Americas,Latin America and the Caribbean
+SOA,,,Southern Africa,Africa,Southern Africa
+SOM,Somalia,Africa,Somalia,Africa,Eastern Africa
+SRB,,,Serbia,Europe,Southern Europe
+SSD,South Sudan,Africa,South Sudan,Africa,Eastern Africa
+SVK,Slovakia,Europe,,,
+SWZ,Eswatini,Africa,Swaziland,Africa,Southern Africa
+SYR,Syria,Middle east,Syrian Arab Republic,Asia,Western Asia
+TCD,Chad,Africa,Chad,Africa,Middle Africa
+TGO,Togo,Africa,Togo,Africa,Western Africa
+THA,Thailand,Asia,,,
+TJK,,,Tajikistan,Asia,Central Asia
+TLS,Timor Leste,Asia,Timor-Leste,Asia,South-Eastern Asia
+TON,Tonga,Pacific,Tonga,Oceania,Polynesia
+TTO,Trinidad and Tobago,Americas,,,
+TUN,Tunisia,Africa,Tunisia,Africa,Northern Africa
+TUR,Turkey,Middle east,Türkiye,Asia,Western Asia
+TUR,Türkiye,Middle east,Türkiye,Asia,Western Asia
+TZA,Tanzania,Africa,United Republic of Tanzania,Africa,Eastern Africa
+UGA,Uganda,Africa,Uganda,Africa,Eastern Africa
+UGA,Uganda,,Uganda,Africa,Eastern Africa
+UKR,Ukraine,Europe,Ukraine,Europe,Eastern Europe
+UKR,Ukraine,,Ukraine,Europe,Eastern Europe
+UZB,,,Uzbekistan,Asia,Central Asia
+VCT,St. Vincent and the Grenadines,Americas,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean
+VEN,Venezuela,Americas,Venezuela,Americas,Latin America and the Caribbean
+VEN,Venezuela,,Venezuela,Americas,Latin America and the Caribbean
+VNM,Vietnam,Asia,Viet Nam,Asia,South-Eastern Asia
+VUT,Vanuatu,Pacific,Vanuatu,Oceania,Melanesia
+VUT,Vanuatu,,Vanuatu,Oceania,Melanesia
+VZR,,,Venezuela Regional Refugee and Migration Crisis,Americas,Latin America and the Caribbean
+WAF,,,Western Africa,Africa,Western Africa
+WSM,,,Samoa,Oceania,Polynesia
+YEM,Yemen,Middle east,Yemen,Asia,Western Asia
+YEM,Yemen,,Yemen,Asia,Western Asia
+ZMB,Zambia,Africa,Zambia,Africa,Eastern Africa
+ZMB,Zambia,,Zambia,Africa,Eastern Africa
+ZWE,Zimbabwe,Africa,Zimbabwe,Africa,Eastern Africa
+ZWE,Zimbabwe,,Zimbabwe,Africa,Eastern Africa
+,,,,,

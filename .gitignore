@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Downloaded data (can be re-downloaded with gdown)
+data/
+*.zip
+
+# Large intermediate files (can be regenerated from pipeline)
+person1_inform_clean.csv
+
+# Model artifacts (add when created)
+*.pkl
+*.joblib

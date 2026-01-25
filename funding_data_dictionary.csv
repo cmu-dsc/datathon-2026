@@ -1,0 +1,28 @@
+Variable,Type,Non_Null,Description
+CERF_Allocation,float64,961,CERF emergency fund allocations
+CERF_Project_Count,float64,961,Number of CERF projects
+CERF_Emergency_Types,object,499,Derived metric
+CBPF_Budget,float64,961,Country-Based Pooled Fund budget
+CBPF_Project_Count,float64,961,Number of CBPF projects
+CBPF_Total_Beneficiaries,float64,254,Total beneficiaries from CBPF projects
+HRP_Original_Requirements,float64,500,Original HRP funding requirements
+HRP_Revised_Requirements,float64,961,Revised HRP funding requirements
+HRP_Plan_Count,float64,961,Number of HRP plans
+HRP_Avg_Duration_Months,float64,500,Derived metric
+Total_Funding,float64,961,Sum of CERF + CBPF + HRP (our original total)
+Funding_Per_Severity,float64,941,Derived metric
+Funding_Per_Person_In_Need,float64,961,Derived metric
+Severity_Funding_Ratio,float64,961,Derived metric
+FTS_Requirements,float64,413,FTS: Total funding requested
+FTS_Funding,float64,847,FTS: Actual funding received
+FTS_Percent_Funded,float64,409,FTS: Percentage of requirements funded
+FTS_Funding_Gap,float64,409,FTS: Unmet funding needs (requirements - funding)
+Funding_Coverage_Rate,float64,961,Derived metric
+FTS_Funding_Per_Capita,float64,961,Derived metric
+FTS_Funding_Per_PIN,float64,961,Derived metric
+Funding_Adequacy_Score,float64,961,Derived metric
+Score_Coverage,float64,961,Derived metric
+Score_Efficiency,float64,961,Derived metric
+Score_Outcome,float64,961,Derived metric
+Score_Gap_Penalty,float64,961,Derived metric
+Crisis_Response_Adequacy_Score,float64,961,Derived metric
