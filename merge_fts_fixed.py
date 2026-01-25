@@ -173,7 +173,8 @@ df_merged['Score_Outcome'] = (50 - df_merged['INFORM_Change'].fillna(0) * 50).cl
 df_merged['Score_Gap'] = (100 - df_merged['Gap_Percentage'].fillna(50)).clip(0, 100)
 
 # Combined Effectiveness Score (weighted average)
-weights = {'coverage': 0.35, 'efficiency': 0.25, 'outcome': 0.20, 'gap': 0.20}
+# Outcome-first approach: prioritize actual severity improvement
+weights = {'coverage': 0.20, 'efficiency': 0.20, 'outcome': 0.40, 'gap': 0.20}
 
 df_merged['Effectiveness_Score'] = (
     weights['coverage'] * df_merged['Score_Coverage'] +
